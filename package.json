@@ -1,0 +1,24 @@
+{
+  "name": "git.coursera",
+  "version": "1.0.0",
+  "description": "This is a test directory ",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivienRoss/Git.Coursera.git"
+  },
+  "author": "VivienRoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivienRoss/Git.Coursera/issues"
+  },
+  "homepage": "https://github.com/VivienRoss/Git.Coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
